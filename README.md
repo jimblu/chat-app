@@ -7,13 +7,15 @@
 
 In this project I am creating a chat application.
 
-Backend is hosted by chatengine.io
+I use  React on the front end, with NodeJS + Socket.io web socket library on the back end. 
+
 
 ### Built With
 
 * HTML
 * SCSS/CSS
 * javascript
-* ReactJS (React Hooks)
-* Sockets
+* ReactJS
+* NodeJS
+* Socket.io
 * Rest APIs
