@@ -12,10 +12,6 @@ I use  React on the front end, with NodeJS + Socket.io web socket library on the
 
 ### Built With
 
-* HTML
-* SCSS/CSS
-* javascript
 * ReactJS
 * NodeJS
 * Socket.io
-* Rest APIs
