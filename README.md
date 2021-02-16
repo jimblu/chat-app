@@ -1,4 +1,4 @@
-# chat-app (in prgress)
+# chat-app (in progress)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
